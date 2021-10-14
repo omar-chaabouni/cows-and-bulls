@@ -1,24 +1,37 @@
 # Cows & Bulls
-A reflexion game made with Flutter and Firebase. Available on Play store via this link : 
+A reflexion game that I made individually with Flutter and Firebase. Available on Play store via this link : 
+This game was made for my own educational purposes. I wanted to do a project so I can put my knowladge into test and use.
+But thankfully it turned out to be a great game.
 
-#
+# Screenshots
 <table>
   <tr>
-    <td>Login page</td>
-     <td>Add patient 1/2</td>
-     <td>Add patient 2/2</td>
-    <td>List patients</td>
+    <td>Main menu screen</td>
+     <td>Offline game select difficulty screen</td>
+     <td>Example of offline gameplay screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/55398565/129442807-162c568e-1be0-49f1-9a40-cc20c3e04ffa.jpg" width="220" height="500"></td>
-    <td><img src="https://user-images.githubusercontent.com/55398565/129442817-6e7ee30e-809f-4177-b75b-54cdb091b78a.jpg" width="220" height="500"></td>
-    <td><img src="https://user-images.githubusercontent.com/55398565/129442820-c1996704-8fab-4298-80e0-79dfaf953500.jpg" width="220" height="500"></td>
-    <td><img src="https://user-images.githubusercontent.com/55398565/129443480-4e8d76b7-4274-4409-b2da-64185854b709.jpg" width="220" height="500"></td>
+    <td><img src="https://user-images.githubusercontent.com/55398565/137364195-ffcd6ba3-3bab-4e21-bf47-5a133ff12980.png" width="220" height="500"></td>
+    <td><img src="https://user-images.githubusercontent.com/55398565/137364361-d41e08e7-0f61-4014-b23e-6f13941fc489.png" width="220" height="500"></td>
+    <td><img src="https://user-images.githubusercontent.com/55398565/137364396-2a7e3e74-aadf-4984-b3f9-1184e304a118.png" width="220" height="500"></td>
   </tr>
  </table>
  
+ <table>
+  <tr>
+    <td>Online games lobby screen</td>
+     <td>Select my number screen</td>
+     <td>Example of online gameplay screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/55398565/137364852-454f9c32-8bea-4261-a2ba-eaa73ced38b2.png" width="220" height="500"></td>
+    <td><img src="https://user-images.githubusercontent.com/55398565/137364862-a592b671-6e9f-4d74-b74e-a28d84a1975c.png" width="220" height="500"></td>
+    <td><img src="https://user-images.githubusercontent.com/55398565/137364870-271256b0-06f5-4097-868d-c335e94dc5b3.png" width="220" height="500"></td>
+  </tr>
+ </table>
  
 ## Game rules
+
 This is a 1v1 game where prove your intelligence. Every player chooses a 4 different digits number that doesn't start with 0. And all numbers used in this game apply to this criteria.
 The game is about trying to guess your opponent's number in the fastest way which means the less tries the better. The result of a played turn is a couple of digits Bulls "B" and Cows "C".
 Bulls are the digits that you guessed existing and are in the correct position in your opponent's number. Cows are the digits that you guessed existing but not in their correct position in your opponent's number. Don't worry about this part, the game will do all the calculations. You just have to focus and try quickly.
@@ -62,6 +75,6 @@ Quitting in mid game is considered as a loss (and can ban your account if repeat
 
 ## Contact 
 
-If you have any questions or business opportunities or collabs; feel free to email me : omar.chaabouni@insat.ucar.tn.
+If you have any questions or business opportunities or collabs; feel free to email me : omar.chaabouni.11@gmail.com or omar.chaabouni@insat.ucar.tn
 
 # Enjoy !
