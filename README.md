@@ -3,6 +3,8 @@ A reflexion game that I made individually with Flutter and Firebase. Available o
 This game was made for my own educational purposes. I wanted to do a project so I can put my knowladge into test and use.
 But thankfully it turned out to be a great game.
 
+Game link : https://play.google.com/store/apps/details?id=omar.bulls.cows
+
 # Screenshots
 <table>
   <tr>
