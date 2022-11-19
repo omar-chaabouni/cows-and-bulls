@@ -1,5 +1,5 @@
 # Cows & Bulls
-A reflexion game that I made individually with Flutter and Firebase. Available on Play store via this link : 
+A Puzzle game that I made individually with Flutter and Firebase. Available on Play store via this link : 
 This game was made for my own educational purposes. I wanted to do a project so I can put my knowladge into test and use.
 But thankfully it turned out to be a great game.
 
